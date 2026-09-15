@@ -427,3 +427,9 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Node / React Client
+node_modules/
+client/dist/
+client/.env.local
+.DS_Store
